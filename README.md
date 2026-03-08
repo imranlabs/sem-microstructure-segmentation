@@ -167,7 +167,8 @@ sem_image_segmentation/
 │
 └── images/           # Confusion matrix plots, overlay visualisations
 ```
-
+## Download model checkpoints
+    https://huggingface.co/imranlabs/sem-microstructure-segmentation/tree/main
 ---
 
 ## Tech Stack
