@@ -12,17 +12,21 @@ This project develops a multi-class semantic segmentation system for SEM microgr
 
 The pipeline combines a UNet architecture with a pretrained ResNet-34 encoder, trained end-to-end using a hybrid loss function and evaluated with region-level, boundary-level, and class-level metrics. The work bridges **materials science and computer vision**, demonstrating practical deep learning for scientific microscopy.
 
-# SEM Microstructure Segmentation with U-Net
+## SEM Microstructure Segmentation with U-Net
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![Task](https://img.shields.io/badge/Task-Semantic%20Segmentation-orange)
+![Model](https://img.shields.io/badge/Model-U--Net-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Project-Active-success)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/imranlabs/sem-microstructure-segmentation/blob/main/notebooks/sem_image_segmentation_UNet.ipynb
 )
 
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Model-yellow)](
+https://huggingface.co/imranlabs/sem-microstructure-segmentation
+)
 
 ---
 
